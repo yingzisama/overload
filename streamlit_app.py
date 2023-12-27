@@ -3,7 +3,7 @@ import streamlit as st
 
 # 页面设置
 st.set_page_config(
-    page_title = "XX博客",   
+    page_title = "overload",   
     page_icon = "random",        
     layout = "centered",         
     initial_sidebar_state = "auto",  
@@ -19,4 +19,4 @@ footer {visibility: hidden;}
 
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
-st.markdown('xx博客')
+st.markdown('笑寒是猪')
